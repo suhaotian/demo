@@ -1,0 +1,20 @@
+{
+  "name": "koa-todo-server",
+  "version": "1.0.0",
+  "description": "TODO with koajs",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "todo",
+    "koajs",
+    "vuejs"
+  ],
+  "author": "FunToYoung",
+  "license": "MIT"
+}
